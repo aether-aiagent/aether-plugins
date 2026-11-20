@@ -1,0 +1,10 @@
+{
+  "name": "hello-extension",
+  "version": "1.0.0",
+  "description": "Minimal Aether Android AI agent extension example",
+  "pi": {
+    "extensions": [
+      "./agent.ts"
+    ]
+  }
+}
